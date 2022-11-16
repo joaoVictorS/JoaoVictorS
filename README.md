@@ -1,4 +1,4 @@
-<div>
+ <div>
   
   <h3 align="center">
     Oi Tudo bem? Eu sou o 
@@ -14,12 +14,6 @@
   
 </div>
 
-<div align="center">
-  <a href="https://github.com/JoaoVictorS">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaovictors&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictors&theme=radical&hide_border=false&&layout=compact"/>
-  </a>
-</div>
 
 <div align="center" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
