@@ -2,7 +2,7 @@
 Engenheiro de software
 
 ## 🧐 About
-Apart from having the super-power of sitting on a desk and code for more than 24 hours just to deliver something that will make world a better place, I am working on democratizing technical education and shape the next generation of engineers and developers.
+Sharing knowledge and its benefits is the greatest act of charity a developer can do. Throughout my journey, I seek to develop, integrate and develop people around me, not only in relation to the development of codes and good practices, but also in the development of interpersonal relationships that provide the growth of a fairer and healthier community.
 
 
 ## ⚡ Technologies
