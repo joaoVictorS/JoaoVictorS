@@ -11,7 +11,7 @@ Talk to me about
 - Backend development using Node, Node with NestJs, PHP with Laravel,python with Django.
 - Server-render using Angular Universal.
 - Creating scalable cloud architecture using Docker, Docker-Compose, Microsoft Azure and AWS.
-- Project Management and CD/CI using Gitlab-CI and Jenkins...
+- Project Management and CD/CI using Gitlab-CI and Jenkins..
 
 ## 📫 Contact Me
 -  <a href = "mailto:jvssb@ic.ufal.br"><img   src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
