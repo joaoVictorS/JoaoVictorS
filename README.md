@@ -7,7 +7,7 @@ Sharing knowledge and its benefits is the greatest act of charity a developer ca
 
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using Angular , Reactjs, Vuejs.
+- Front-end development using Angular , Reactjs, Vuejs..
 - Backend development using Node, Node with NestJs, PHP with Laravel,python with Django.
 - Server-render using Angular Universal..
 - Creating scalable cloud architecture using Docker, Docker-Compose, Microsoft Azure and AWS.
