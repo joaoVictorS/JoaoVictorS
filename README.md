@@ -2,13 +2,13 @@
 Software Engineer || Full Stack Developer.
 
 ## 🧐 About.
-Sharing knowledge and its benefits is the greatest act of charity a developer can do. Throughout my journey, I seek to develop, integrate and develop people around me, not only in relation to the development of codes and good practices, but also in the development of interpersonal relationships that provide the growth of a fairer and healthier community...
+Sharing knowledge and its benefits is the greatest act of charity a developer can do. Throughout my journey, I seek to develop, integrate and develop people around me, not only in relation to the development of codes and good practices, but also in the development of interpersonal relationships that provide the growth of a fairer and healthier community..
 
 
 ## ⚡ Technologies.
 Talk to me about
-- Front-end development using Reactjs, Angular, Vuejs.
-- Backend development using Node, Node with NestJs and Redux, PHP with Laravel,Python with Django.
+- Front-end development using Reactjs, Angular, Apex.
+- Backend development using Node, Node with NestJs and Redux, PHP, Pyhton, PLSQL.
 - Server-render using Angular Universal.
 - Creating scalable cloud architecture using Docker, Docker-Compose, Microsoft Azure and AWS.
 
