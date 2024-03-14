@@ -1,8 +1,8 @@
-# João Victor 😃
+2# João Victor 😃
 Software Engineer || Full Stack Developer.
 
 ## 🧐 About.
-Sharing knowledge and its benefits is the greatest act of charity a developer can do. Throughout my journey, I seek to develop, integrate and develop people around me, not only in relation to the development of codes and good practices, but also in the development of interpersonal relationships that provide the growth of a fairer and healthier community...
+Sharing knowledge and its benefits is the greatest act of charity a developer can do. Throughout my journey, I seek to develop, integrate and develop people around me, not only in relation to the development of codes and good practices, but also in the development of interpersonal relationships that provide the growth of a fairer and healthier community..
 
 
 ## ⚡ Technologies.
