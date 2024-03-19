@@ -1,4 +1,4 @@
-2# João Victor 😃
+# João Victor 😃
 Software Engineer || Full Stack Developer.
 
 ## 🧐 About.
